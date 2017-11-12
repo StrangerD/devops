@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>devops</name>
-	<description>Startup-ready web skeleton</description>
+	<description>DStartup-ready web skeleton project</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
